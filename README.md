@@ -1,7 +1,5 @@
 ## Create Apps with Visual Basci .NET
 
-<h2>Project VB .Net</h2> <br>
-
 ### Tampilan Menu
 
 ```
@@ -13,3 +11,11 @@
 "6. -"
 "7. Game"
 ```
+
+### Tampilan Login
+
+<p><img src="https://github.com/raaffiy/app_cpp/blob/main/gambar/gambar1.png?raw=true"/></p><br>
+
+### Tampilan Login
+
+<p><img src="https://github.com/raaffiy/app_cpp/blob/main/gambar/gambar2.png?raw=true"/></p><br>
