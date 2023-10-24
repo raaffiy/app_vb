@@ -14,8 +14,8 @@
 
 ### Tampilan Login
 
-<p><img src="https://github.com/raaffiy/app_cpp/blob/main/gambar/gambar1.png?raw=true"/></p><br>
+<p><img src="https://github.com/raaffiy/app_vb/blob/master/gambar/gambar1.png?raw=true"/></p><br>
 
 ### Tampilan Login
 
-<p><img src="https://github.com/raaffiy/app_cpp/blob/main/gambar/gambar2.png?raw=true"/></p><br>
+<p><img src="https://github.com/raaffiy/app_vb/blob/master/gambar/gambar2.png?raw=true"/></p><br>
